@@ -1,2 +1,3 @@
 GitHub on pilvepõhine teenus, mis kasutab Giti ning mille abil saab teostada versioonihaldust, hallata ligipääsu, vigasid ning ettepanekuid tarkvara täiendamise osas ja muud. Seda kasutatakse peamiselt tarkvaraarendajate poolt.
 Mina saan kasutada GitHubi iseseisvate tööde organiseerimiseks.
+GitHub tuli avalikkusele välja aastal 2008, selle loojateks on Tom Preston-Werner, Chris Wanstrath, P. J. Hyett ja Scott Chacon. GitHubi platvormi loomisega alustati aastal 2007.
