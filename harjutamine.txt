@@ -1,1 +1,2 @@
 GitHub on pilvepõhine teenus, mis kasutab Giti ning mille abil saab teostada versioonihaldust, hallata ligipääsu, vigasid ning ettepanekuid tarkvara täiendamise osas ja muud. Seda kasutatakse peamiselt tarkvaraarendajate poolt.
+Mina saan kasutada GitHubi iseseisvate tööde organiseerimiseks.
